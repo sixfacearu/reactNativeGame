@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.8] /home/chainflux/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/856e43d3947be581680fdb12bc2d8843/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cba97e5d68fe8d5c92908f113afb42c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bd7a202774a1ecef450cce6e360c5b54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0c16fef93bade42579a7121413d4a914/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/74de5cc43140d41f1a4ff567aef2a6ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/920eea44a2ee9394664c5ed62d5a81bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d4c9cfc93288447b4366231266da4c2e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/39550d8db24ff95bc0bfaa8ba8f9dcf1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/751d5173e982131afcef3a8ef8888076/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/9fb00a5682e380dc26554d24e90f11b8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/072def5e2e421efbeaef3b0e250940bf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/d37d9579f8629cf69ee97ff874e98a46/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/29e3fcb09357281413522f7b4ae39e58/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/0289f86b51e037b7e6df42757664ed92/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/chainflux/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/72a76cdbdf2d835b3b06521fed04f00b/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/37537b2cdf9cb36080c102e604f8a229/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7f23476abd34930129363f373d074dc8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/bb0a7d84da9ab9c84caaa372b3309981/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fb32af70a0f562e8aade931eefe62dd9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/22be4b4607e95acdb7b9d89624a88a4e/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:2:5-22
+		INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /home/chainflux/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/856e43d3947be581680fdb12bc2d8843/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /home/chainflux/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/856e43d3947be581680fdb12bc2d8843/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] /home/chainflux/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/856e43d3947be581680fdb12bc2d8843/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /home/chainflux/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/856e43d3947be581680fdb12bc2d8843/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/0289f86b51e037b7e6df42757664ed92/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/0289f86b51e037b7e6df42757664ed92/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/chainflux/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/72a76cdbdf2d835b3b06521fed04f00b/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/chainflux/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/72a76cdbdf2d835b3b06521fed04f00b/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.pro.MainActivity
+ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.8] /home/chainflux/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/856e43d3947be581680fdb12bc2d8843/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /home/chainflux/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/856e43d3947be581680fdb12bc2d8843/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cba97e5d68fe8d5c92908f113afb42c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cba97e5d68fe8d5c92908f113afb42c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bd7a202774a1ecef450cce6e360c5b54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bd7a202774a1ecef450cce6e360c5b54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0c16fef93bade42579a7121413d4a914/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0c16fef93bade42579a7121413d4a914/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/74de5cc43140d41f1a4ff567aef2a6ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/74de5cc43140d41f1a4ff567aef2a6ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/920eea44a2ee9394664c5ed62d5a81bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/920eea44a2ee9394664c5ed62d5a81bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d4c9cfc93288447b4366231266da4c2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d4c9cfc93288447b4366231266da4c2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/39550d8db24ff95bc0bfaa8ba8f9dcf1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/39550d8db24ff95bc0bfaa8ba8f9dcf1/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/751d5173e982131afcef3a8ef8888076/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/751d5173e982131afcef3a8ef8888076/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/9fb00a5682e380dc26554d24e90f11b8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/9fb00a5682e380dc26554d24e90f11b8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/072def5e2e421efbeaef3b0e250940bf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/072def5e2e421efbeaef3b0e250940bf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/d37d9579f8629cf69ee97ff874e98a46/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/d37d9579f8629cf69ee97ff874e98a46/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/29e3fcb09357281413522f7b4ae39e58/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/29e3fcb09357281413522f7b4ae39e58/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/0289f86b51e037b7e6df42757664ed92/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/chainflux/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/0289f86b51e037b7e6df42757664ed92/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/37537b2cdf9cb36080c102e604f8a229/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/37537b2cdf9cb36080c102e604f8a229/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7f23476abd34930129363f373d074dc8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7f23476abd34930129363f373d074dc8/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/bb0a7d84da9ab9c84caaa372b3309981/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/bb0a7d84da9ab9c84caaa372b3309981/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fb32af70a0f562e8aade931eefe62dd9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fb32af70a0f562e8aade931eefe62dd9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/22be4b4607e95acdb7b9d89624a88a4e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/chainflux/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/22be4b4607e95acdb7b9d89624a88a4e/AndroidManifest.xml:20:5-44
+INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/chainflux/pro/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
